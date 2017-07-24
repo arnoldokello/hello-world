@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi People.
+Arnold here, I like to explore and new things are always good to learn.
